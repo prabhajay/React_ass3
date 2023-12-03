@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_ass3/static/css/main.872121c1.css",
+    "main.js": "/React_ass3/static/js/main.4bfbbd48.js",
+    "index.html": "/React_ass3/index.html",
+    "main.872121c1.css.map": "/React_ass3/static/css/main.872121c1.css.map",
+    "main.4bfbbd48.js.map": "/React_ass3/static/js/main.4bfbbd48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.872121c1.css",
+    "static/js/main.4bfbbd48.js"
+  ]
+}
