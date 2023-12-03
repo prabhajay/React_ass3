@@ -1,0 +1,51 @@
+.navbar{
+  display:flex;
+  background-color: coral;
+}
+.btn{
+  font-size: 1.5em;
+}
+.icon{
+  position:relative;
+  margin-right: 0.5px;
+  padding-right: 0.5px;
+}
+.cart{
+  position: absolute;
+  }
+  .footer{
+    background-color: coral;
+  }
+  .images{
+    display: flex;
+    justify-content: space-around;
+    margin:50px;
+    padding: 40px;
+  }
+  .img1{
+    margin: 20px;
+
+  }
+  .container{
+    border:1px solid black;
+
+  }
+  .p{
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+    
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+ .cartPage{
+  margin: 70px;
+ }
+
